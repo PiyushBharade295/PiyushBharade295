@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **IoT: ESP8266/ESP32, Flask, MIT App Inventor**
 
-- 📫 How to reach me **talktoatharva14@gmail.com**
+- 📫 How to reach me **piyushbharade2@gmail.com**
 
 <!-- - 📄 Know about my experiences [www.resume.link](www.resume.link) -->
 
